@@ -1,0 +1,12 @@
+{
+  "name": "3fi-soltion",
+  "version": "1.0.0",
+  "description": "3fi",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Leupol de Souza",
+  "license": "ISC"
+}
